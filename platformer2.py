@@ -1,3 +1,4 @@
+#Better Version of the game (no glitches)
 import pygame
 import time
 from pygame.locals import *
